@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jayesh037/jayesh037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Jayesh Singhal**
 
-Here are some ideas to get you started:
+### AI-Focused Full Stack Developer • Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Powered+Systems;Full+Stack+Developer;Future+Big+Tech+Engineer&center=true&width=500&height=45&color=58A6FF">
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I build AI-driven applications and scalable systems that solve real-world problems.
+
+* 🎓 B.Tech student @ Bennett University
+* 🤖 AI & Machine Learning enthusiast
+* 🏆 Hackathon developer
+* 🚀 Targeting big tech & high-impact startups
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql,html,css,git,vscode" />
+</p>
+
+---
+
+## 🚗 Featured Project — Parking Guidance System
+
+Smart city platform for real-time parking tracking and booking.
+
+* Live parking slot monitoring
+* Responsive web interface
+* Scalable system design
+* Focused on real-world urban problems
+
+👉 **Pinned flagship project**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+📧 [jayeshsinghal037@gmail.com](mailto:jayeshsinghal037@gmail.com)
+💼 LinkedIn: [https://www.linkedin.com/in/jayesh-singhal-a77875290](https://www.linkedin.com/in/jayesh-singhal-a77875290)
+🐙 GitHub: [https://github.com/jayesh037](https://github.com/jayesh037)
+
+---
+
+<div align="center">
+
+⭐ Engineering intelligent systems for the future
+
+</div>
