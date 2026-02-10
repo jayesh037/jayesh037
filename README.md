@@ -56,7 +56,7 @@ Smart city platform for real-time parking tracking and booking.
 
 ## 📫 Connect With Me
 
-📧 [jayeshsinghal037@gmail.com](mailto:jayeshsinghal037@gmail.com)
+📧 Email: [jayeshsinghal037@gmail.com](mailto:jayeshsinghal037@gmail.com)
 
 💼 LinkedIn: [https://www.linkedin.com/in/jayesh-singhal-a77875290](https://www.linkedin.com/in/jayesh-singhal-a77875290)
 
