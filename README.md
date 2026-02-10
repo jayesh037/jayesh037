@@ -46,9 +46,9 @@ Smart city platform for real-time parking tracking and booking.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jayesh037&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh037&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -58,6 +58,7 @@ Smart city platform for real-time parking tracking and booking.
 
 📧 [jayeshsinghal037@gmail.com](mailto:jayeshsinghal037@gmail.com)
 💼 LinkedIn: [https://www.linkedin.com/in/jayesh-singhal-a77875290](https://www.linkedin.com/in/jayesh-singhal-a77875290)
+
 🐙 GitHub: [https://github.com/jayesh037](https://github.com/jayesh037)
 
 ---
