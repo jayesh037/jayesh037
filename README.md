@@ -24,7 +24,7 @@ I build AI-driven applications and scalable systems that solve real-world proble
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,vscode" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Smart city platform for real-time parking tracking and booking.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jayesh037&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jayesh037&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh037&theme=tokyonight&hide_border=true" />
 
@@ -57,6 +57,7 @@ Smart city platform for real-time parking tracking and booking.
 ## 📫 Connect With Me
 
 📧 [jayeshsinghal037@gmail.com](mailto:jayeshsinghal037@gmail.com)
+
 💼 LinkedIn: [https://www.linkedin.com/in/jayesh-singhal-a77875290](https://www.linkedin.com/in/jayesh-singhal-a77875290)
 
 🐙 GitHub: [https://github.com/jayesh037](https://github.com/jayesh037)
