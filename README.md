@@ -24,7 +24,7 @@ I build AI-driven applications and scalable systems that solve real-world proble
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,langchain,mongodb,sql,cpp,c,html,css,js,git,vscode" />
 </p>
 
 ---
